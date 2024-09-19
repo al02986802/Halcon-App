@@ -43,7 +43,8 @@ El diagrama de actividades describe el flujo de acciones en el procesamiento de 
 ### Diagrama de Casos de Uso
 Este diagrama muestra las interacciones entre los usuarios (Clientes, Ventas, Almacén, Ruta y Administrador) y el sistema, destacando los casos de uso como **Crear Pedido**, **Consultar Pedido**, **Actualizar Estado**, y **Gestionar Usuarios**.
 
-*Diagrama pendiente de generar.*
+![image](https://github.com/user-attachments/assets/9796d498-156f-47a2-b1ac-a2ad1987c85e)
+
 
 ## Elección de la Base de Datos
 
@@ -54,7 +55,8 @@ Este diagrama muestra las interacciones entre los usuarios (Clientes, Ventas, Al
 ### Diagrama ER
 El diagrama ER representa las entidades principales de la base de datos y sus relaciones.
 
-*Diagrama pendiente de generar.*
+![image](https://github.com/user-attachments/assets/05434757-14f2-4735-8ebc-c3aa64954591)
+
 
 ## Reflexión Personal
-Este proyecto supone un desafío interesante que permite aplicar y mejorar mis habilidades en el desarrollo web, gestión de bases de datos y manejo de proyectos bajo metodologías ágiles. La elección de SCRUM permitirá adaptarse a cambios en los requerimientos del cliente y entregar funcionalidades de manera incremental, lo que asegurará un producto final de calidad. La creación de diagramas también ha sido esencial para comprender mejor el flujo de trabajo y las interacciones entre los diferentes actores y entidades del sistema.
+Este proyecto me gusto mucho ya que se trabajo mas con github y con este archivo readme. En general este proyecto también me puso a investigar sobre los diagramas pues la verdad ya llevaba rato sin trabajar con ellos, en conclusión me gusto mucho este proyecto 
