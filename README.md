@@ -25,17 +25,20 @@ SCRUM es una metodología ágil que facilita la gestión de proyectos complejos 
 ### Diagrama BPMN
 El diagrama BPMN ilustra el flujo de procesamiento de pedidos dentro de la empresa "Halcon", cubriendo desde la recepción del pedido hasta la confirmación de entrega.
 
-![Diagrama BPMN](BPMN_Diagram.png)
+![Opera Captura de pantalla_2024-09-18_234031_lucid app](https://github.com/user-attachments/assets/5284cde5-d48b-46d5-8d4a-d53557c0f92d)
+
 
 ### Diagrama de Clases
 Este diagrama representa las principales entidades del sistema como **Pedido**, **Cliente**, **Usuario**, y **Material**, junto con sus atributos y métodos, además de las relaciones entre ellas.
 
-![Diagrama de Clases](Class_Diagram.png)
+!![image](https://github.com/user-attachments/assets/d3f55517-c540-4139-be12-6d8153ef9945)
+
 
 ### Diagrama de Actividades
 El diagrama de actividades describe el flujo de acciones en el procesamiento de un pedido, desde la recepción inicial hasta la entrega y confirmación en el sistema.
 
-![Diagrama de Actividades](Activity_Diagram.png)
+!![image](https://github.com/user-attachments/assets/6d399430-3f43-4726-913f-878e8b352227)
+
 
 ### Diagrama de Casos de Uso
 Este diagrama muestra las interacciones entre los usuarios (Clientes, Ventas, Almacén, Ruta y Administrador) y el sistema, destacando los casos de uso como **Crear Pedido**, **Consultar Pedido**, **Actualizar Estado**, y **Gestionar Usuarios**.
