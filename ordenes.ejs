@@ -1,0 +1,18 @@
+<!-- views/ordenes.ejs -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+   <meta charset="UTF-8">
+   <title>Órdenes Registradas</title>
+</head>
+<body>
+   <h2>Órdenes Registradas</h2>
+   <table border="1">
+      <tr><th>ID Pedido</th><th>Número Factura</th><th>Estado</th></tr>
+      <% pedidos.forEach(pedido => { %>
+      <tr><td><%= pedido._id %></td><td><%= pedido.numero_factura %></td><td><%= pedido.estado_id %></td></tr>
+      <% }); %>
+   </table>
+   <a href="/crear_pedido">Crear Pedido</a>
+</body>
+</html>

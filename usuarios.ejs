@@ -1,0 +1,18 @@
+<!-- views/usuarios.ejs -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+   <meta charset="UTF-8">
+   <title>Listado de Usuarios</title>
+</head>
+<body>
+   <h2>Listado de Usuarios</h2>
+   <table border="1">
+      <tr><th>ID</th><th>Nombre Usuario</th><th>Rol</th></tr>
+      <% usuarios.forEach(usuario => { %>
+      <tr><td><%= usuario._id %></td><td><%= usuario.nombre_usuario %></td><td><%= usuario.rol_id %></td></tr>
+      <% }); %>
+   </table>
+   <a href="/crear_usuario">Crear Usuario</a>
+</body>
+</html>
